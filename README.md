@@ -42,6 +42,10 @@ This is a full-stack CRUD (Create, Read, Update, Delete) application developed u
 
    ![User_List](https://github.com/user-attachments/assets/ff0585f1-5e99-454c-9055-2c47fb59ea7a)
 
+   <br>
+
+   ![User_Add](https://github.com/user-attachments/assets/2c17b6ff-b520-4078-b576-5edbf43221a2)
+
 
 
 
